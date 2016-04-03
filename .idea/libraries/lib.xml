@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ZMEduCommon/lib/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ZMEduCommon/lib/httpmime-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ZMEduCommon/lib/httpcore-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ZMEduCommon/lib/httpclient-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ZMEduCommon/lib/poi-3.12-20150511.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ZMEduCommon/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ZMEduCommon/lib/gif4j_pro_trial_2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ZMEduCommon/lib/poi-ooxml-3.12-20150511.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

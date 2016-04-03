@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yibee_project:war exploded">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="yibee_project_war exploded.war">
+      <element id="javaee-facet-resources" facet="yibee_project/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="yibee_project" />
+          <element id="module-output" name="ZMEduCommon" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="aopalliance-1.0" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="module-output" name="ZMEduCommon" />
+    </root>
+  </artifact>
+</component>
